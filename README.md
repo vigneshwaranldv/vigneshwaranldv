@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# i'm vignesh
+### i'm vignesh
 tinkering with code across stacks
 
 ---
